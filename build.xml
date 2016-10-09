@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<project name="Trident" default="info" basedir=".">
+	
+	<target name="info">
+		<echo>ANT Works</echo>
+	</target>
+	
+</project>
