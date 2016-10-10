@@ -4,6 +4,7 @@
 	
 	<target name="info">
 		<echo>ANT Works</echo>
+		<echo>i exist in remote server</echo>
 	</target>
 	
 </project>
